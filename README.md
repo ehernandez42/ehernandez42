@@ -1,3 +1,5 @@
+<img src="linkedin_banner.png" />
+
 ## Hi there 👋
 Welcome to my github profile.
 
