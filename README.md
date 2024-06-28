@@ -11,8 +11,8 @@ Welcome to my github profile.
 <a href="https://www.x.com/ehernandezdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 
 🌱 I’m currently building:
-    🖥 A cool, different set of ways to protect your AI prompts. 
-    🖥 Learning management system to brush up on my Java and SQL skills.
+    - 🖥 A cool, different set of ways to protect your AI prompts. 
+    - 🖥 Learning management system to brush up on my Java and SQL skills.
 
 <!--
 **ehernandez42/ehernandez42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
