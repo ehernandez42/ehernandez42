@@ -11,7 +11,7 @@
 
 ### [Portfolio](https://eleazarhernandez.me)
 
-- 🌱 I’m currently building:
+### 🌱 I’m currently building:
     - 🖥 A cool, different set of ways to protect your AI prompts. 
     - 🖥 Learning management system to brush up on my Java and SQL skills.
     - 🖥 Data Analytics and other sorts of data-heavy projects
