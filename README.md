@@ -12,9 +12,7 @@
 ### [Portfolio](https://eleazarhernandez.me)
 
 ### 🌱 I’m currently building:
-    - 🖥 A cool, different set of ways to protect your AI prompts. 
-    - 🖥 Learning management system to brush up on my Java and SQL skills.
-    - 🖥 Data Analytics and other sorts of data-heavy projects
+    - 🖥 AI apps in the world of PII security and AI assistants
 
 <!--
 **ehernandez42/ehernandez42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
