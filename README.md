@@ -12,7 +12,7 @@
 ### [Portfolio](https://eleazarhernandez.me)
 
 ### 🌱 I’m currently building:
-    - 🖥 AI apps in the world of PII security and AI assistants
+    - 🖥 AI-translating app that picks up text and translates to speech
 
 <!--
 **ehernandez42/ehernandez42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
